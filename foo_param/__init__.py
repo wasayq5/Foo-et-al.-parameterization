@@ -19,8 +19,4 @@ def main():
     volume = foo_param.volume(args.radius)
 
     #print volume
-    print(f"The volume of this sphere is {volume} (cubed units)")
-    
-# Allow script to be run directly from command line
-if __name__ == "__main__":
-    main()
+    print(f"The volume of a sphere with radius {args.radius} is {volume} (cubed units)")

@@ -1,0 +1,2 @@
+[console_scripts]
+foo_param = foo_param:main

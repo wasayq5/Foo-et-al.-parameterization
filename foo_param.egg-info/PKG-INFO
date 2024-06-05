@@ -1,0 +1,26 @@
+Metadata-Version: 2.1
+Name: foo_param
+Version: 0.1
+Summary: A package for Foo et al. parameterization
+Home-page: https://github.com/wasayq5/foo_param
+Author: Wasay Qureshi
+Author-email: waaspad@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# foo_param
+
+This package calculates the volume of a sphere using the Foo et al. parameterization.
+
+## Installation
+
+Clone the repository and install the package using pip:
+
+```bash
+git clone https://github.com/wasayq5/foo_param.git
+cd foo_param
+pip install .

@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+foo_param.egg-info/PKG-INFO
+foo_param.egg-info/SOURCES.txt
+foo_param.egg-info/dependency_links.txt
+foo_param.egg-info/entry_points.txt
+foo_param.egg-info/top_level.txt
+tests/__init__.py
+tests/test_foo.py
